@@ -2,7 +2,7 @@
   "name": "doctor",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://github.com/ALI-YAASER/Appointment-doctor.git",
+  "homepage": "https://github.com/ALI-YAASER.github.io/Appointment-doctor",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
